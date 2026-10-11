@@ -9,8 +9,6 @@
 
 <a href="https://www.linkedin.com/in/meghana-sri-avvaru-818048329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile of Meghana Sri Avvaru" /></a>
 <a href="mailto:meghanasri0608@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Meghana Sri" /></a>
-<a href="https://gov-assist-ai-chi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-GovAssist_AI-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo of GovAssist AI" /></a>
-<a href="https://water-quality-prediction-omega.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-HydroPredict-1F8A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo of HydroPredict" /></a>
 
 </div>
 
