@@ -5,9 +5,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+Developer+%7C+Java+%26+Python;I+build+RAG-powered+AI+platforms;Full-stack+with+FastAPI+%2B+React;Final-year+IT+%40+CMR+Engineering+College" alt="Typing animation: Software Developer, RAG-powered AI platforms, FastAPI and React, final-year IT student" />
 
+<br>
+
 <a href="https://www.linkedin.com/in/meghana-sri-avvaru-818048329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile of Meghana Sri Avvaru" /></a>
 <a href="mailto:meghanasri0608@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Meghana Sri" /></a>
 <a href="https://gov-assist-ai-chi.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-GovAssist_AI-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo of GovAssist AI" /></a>
+<a href="https://water-quality-prediction-omega.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-HydroPredict-1F8A8A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo of HydroPredict" /></a>
 
 </div>
 
@@ -60,7 +63,7 @@ I build full-stack AI applications that turn dense documents into answers people
 
 | Project | What it does | Stack |
 |---|---|---|
-| ⭐ **[GovAssist AI](https://github.com/MeghanaSri-A/GovAssist-AI)** (2026)<br>[🔗 Live Demo](https://gov-assist-ai-chi.vercel.app/) | RAG platform that explains, compares and matches Indian welfare schemes from official PDFs, with page-level citations on every answer. Includes an eligibility checker (SQL filters on age, income, caste, state + LLM semantic queries), a scheme explorer covering 500+ central and state schemes, and an admin console that chunks, embeds and indexes uploaded PDFs. JWT auth with role-based access. | `FastAPI` `React` `Qdrant` `Gemini` `Ollama` `PostgreSQL` `SQLite` |
+| ⭐ **[GovAssist AI](https://github.com/MeghanaSri-A/GovAssist-AI)** (2026)<br>[🔗 Live Demo](https://gov-assist-ai-chi.vercel.app/) | • Architected a full-stack AI platform using FastAPI and React.js with JWT-based authentication and role-based access control for citizen and administrative workflows.<br>• Engineered an end-to-end RAG pipeline using PyMuPDF, page-preserving document chunking, embeddings, and Qdrant vector search to generate context-grounded responses with page-level citations.<br>• Implemented a hybrid eligibility engine combining SQL-based multi-criteria filtering (age, income, caste, state) with LLM-powered semantic scheme queries and comparisons.<br>• Integrated Google Gemini and Ollama for AI-powered responses and document analysis across government scheme information. | `FastAPI` `React.js` `Qdrant` `Gemini` `Ollama` `SQLite` `SQLAlchemy` |
 | **[AI Research Studio](https://github.com/NerusuNiharika/AI-Research-Studio)** (2026) | Multi-agent research platform that combines RAG over uploaded PDFs, live web search and an LLM to produce citation-based reports. A LangGraph workflow (plan → research → review → report) powers it, with JWT auth, saved research history, images, and downloadable reports. | `FastAPI` `React` `LangGraph` `LangChain` `Qdrant` `Groq` `Tavily` `Pexels` |
 | **[HydroPredict](https://github.com/MeghanaSri-A/water-quality-prediction)** (2025)<br>[🔗 Live Demo](https://water-quality-prediction-omega.vercel.app/) | ML web app that predicts whether water is safe or contaminated from pH, turbidity, dissolved oxygen, conductivity and nitrate. A Random Forest model is served through a Flask API to a React UI for real-time predictions. | `Python` `Scikit-learn` `Flask` `React` |
 
