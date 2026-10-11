@@ -35,26 +35,16 @@ I build full-stack AI applications that turn dense documents into answers people
 
 **Frameworks & Libraries**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **AI, ML & Data**<br>
 ![LLMs](https://img.shields.io/badge/LLMs_%26_RAG-7AA2F7?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Databases**<br>
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Deployment & Tools**<br>
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
@@ -71,7 +61,7 @@ I build full-stack AI applications that turn dense documents into answers people
 | Project | What it does | Stack |
 |---|---|---|
 | ⭐ **[GovAssist AI](https://github.com/MeghanaSri-A/GovAssist-AI)** (2026)<br>[🔗 Live Demo](https://gov-assist-ai-chi.vercel.app/) | RAG platform that explains, compares and matches Indian welfare schemes from official PDFs, with page-level citations on every answer. Includes an eligibility checker (SQL filters on age, income, caste, state + LLM semantic queries), a scheme explorer covering 500+ central and state schemes, and an admin console that chunks, embeds and indexes uploaded PDFs. JWT auth with role-based access. | `FastAPI` `React` `Qdrant` `Gemini` `Ollama` `PostgreSQL` `SQLite` |
-| **[AI Research Studio](https://github.com/MeghanaSri-A/AI-Research-Studio)** (2026) | Multi-agent research platform that combines RAG over uploaded PDFs, live web search and an LLM to produce citation-based reports. A LangGraph workflow (plan → research → review → report) powers it, with JWT auth, saved research history, images, and downloadable reports. | `FastAPI` `React` `LangGraph` `LangChain` `Qdrant` `Groq` `Tavily` `Pexels` |
+| **[AI Research Studio](https://github.com/NerusuNiharika/AI-Research-Studio)** (2026) | Multi-agent research platform that combines RAG over uploaded PDFs, live web search and an LLM to produce citation-based reports. A LangGraph workflow (plan → research → review → report) powers it, with JWT auth, saved research history, images, and downloadable reports. | `FastAPI` `React` `LangGraph` `LangChain` `Qdrant` `Groq` `Tavily` `Pexels` |
 | **[HydroPredict](https://github.com/MeghanaSri-A/water-quality-prediction)** (2025)<br>[🔗 Live Demo](https://water-quality-prediction-omega.vercel.app/) | ML web app that predicts whether water is safe or contaminated from pH, turbidity, dissolved oxygen, conductivity and nitrate. A Random Forest model is served through a Flask API to a React UI for real-time predictions. | `Python` `Scikit-learn` `Flask` `React` |
 
 ## 💼 Experience
@@ -104,11 +94,6 @@ I build full-stack AI applications that turn dense documents into answers people
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeghanaSri-A&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages for MeghanaSri-A" />
 
 <img src="https://streak-stats.demolab.com?user=MeghanaSri-A&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for MeghanaSri-A" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeghanaSri-A&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph for MeghanaSri-A" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=MeghanaSri-A&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub profile trophies for MeghanaSri-A" />
-
 </div>
 
 <!-- Public widget hosts can rate-limit. Fallback: self-host github-readme-stats on your own Vercel and swap the base URL. -->
