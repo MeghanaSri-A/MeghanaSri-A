@@ -1,7 +1,7 @@
 <div align="center">
 
 # Avvaru Meghana Sri
-### Software Developer | Full-stack AI apps with RAG | Java & Python
+### Aspiring Software Developer | Full-stack AI apps with RAG | Java & Python
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+Developer+%7C+Java+%26+Python;I+build+RAG-powered+AI+platforms;Full-stack+with+FastAPI+%2B+React;Final-year+IT+%40+CMR+Engineering+College" alt="Typing animation: Software Developer, RAG-powered AI platforms, FastAPI and React, final-year IT student" />
 
